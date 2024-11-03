@@ -74,12 +74,12 @@ The Fine System is a comprehensive platform designed to manage and streamline th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fine-system.git
+   git clone https://github.com/sadeeshasathsara/finesystem.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd fine-system
+   cd finesystem
    ```
 
 3. Set up the database:
