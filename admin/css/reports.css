@@ -1,0 +1,96 @@
+@media (max-width: 768px) {
+  .container {
+    font-size: 0.6rem;
+  }
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.container h1 {
+  text-align: center;
+  color: #1b1b1b;
+}
+
+.report-down {
+  background-color: #4caf50; /* Green background */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding for size */
+  border: none; /* Remove borders */
+  border-radius: 5px; /* Rounded corners */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Pointer cursor on hover */
+  text-align: center; /* Center the text */
+  display: inline-block; /* Make the button inline-block */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.report-down:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+.report-down:active {
+  background-color: #3e8e41; /* Even darker when active */
+  box-shadow: 0 5px #666; /* Slight shadow when clicked */
+  transform: translateY(2px); /* Move the button slightly down when clicked */
+}
+
+.report-form {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.report-form h2 {
+  margin-top: 0;
+  color: #383838;
+}
+
+.form-input,
+.form-select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.report-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.report-button:hover {
+  background-color: #0056b3;
+}
+
+.report-output {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.report-output h3 {
+  margin-top: 0;
+}
+
+.report-output table tr td,
+.report-output table tr th {
+  padding: 10px;
+}
