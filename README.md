@@ -114,8 +114,6 @@ The Fine System is a comprehensive platform designed to manage and streamline th
    ```
 5. Open a pull request.
 
-## Contact
+## Contact [sadeeshasathsara99@gmail.com].
 
-For any inquiries or support, please contact [your-email@example.com].
-
----
+------------------------------------------
