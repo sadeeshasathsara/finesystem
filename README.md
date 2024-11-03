@@ -15,7 +15,6 @@ The Fine System is a comprehensive platform designed to manage and streamline th
 - **Payment Methods**: Drivers can save payment methods for future transactions.
 - **Profile Management**: View details of their driving license, total penalties issued, paid penalties, and unpaid penalties.
 
-  ![Screenshot 2024-11-03 223912](https://github.com/user-attachments/assets/83ca8fb7-811f-45a6-958c-414341b33f90)
   ![Screenshot 2024-11-03 223103](https://github.com/user-attachments/assets/8be81e74-e8eb-4be7-86a5-1ab8393adc95)
   ![Screenshot 2024-11-03 223143](https://github.com/user-attachments/assets/34d7ab60-52fb-4dfe-b0ec-172ad1125540)
   ![Screenshot 2024-11-03 223156](https://github.com/user-attachments/assets/7b468465-040d-49fa-b9a3-4e06da713c2d)
@@ -30,7 +29,7 @@ The Fine System is a comprehensive platform designed to manage and streamline th
   ![Screenshot 2024-11-03 223808](https://github.com/user-attachments/assets/17e5154e-bcdf-41bb-95b3-7466f8c2da5f)
   ![Screenshot 2024-11-03 223825](https://github.com/user-attachments/assets/39b91ece-2e12-4103-9085-2c1ca75fb2ac)
   ![Screenshot 2024-11-03 223848](https://github.com/user-attachments/assets/dafffa1e-b6df-45be-be3c-ac761b1fb5b6)
-
+  ![Screenshot 2024-11-03 223912](https://github.com/user-attachments/assets/83ca8fb7-811f-45a6-958c-414341b33f90)
 
 ### Police Officers
 - **Daily Target**: See daily targets and penalties issued today.
@@ -39,7 +38,6 @@ The Fine System is a comprehensive platform designed to manage and streamline th
 - **Recent Penalties**: View details of recently issued penalties.
 - **Reports Generation**: Generate and download daily activity reports, monthly fine summaries, and violation trend reports.
 
-  ![Screenshot 2024-11-03 224616](https://github.com/user-attachments/assets/a339c758-726f-4922-8eb5-1af48ad63819)
   ![Screenshot 2024-11-03 224443](https://github.com/user-attachments/assets/64036ee5-2eff-4198-ae50-f89ef88ebaba)
   ![Screenshot 2024-11-03 224502](https://github.com/user-attachments/assets/746e2567-bb99-4872-bfac-f16af8fa59f7)
   ![Screenshot 2024-11-03 224511](https://github.com/user-attachments/assets/790fc9e5-baa9-4542-9664-0d826818dbb1)
@@ -47,7 +45,7 @@ The Fine System is a comprehensive platform designed to manage and streamline th
   ![Screenshot 2024-11-03 224534](https://github.com/user-attachments/assets/cb450f2b-45d1-4cd4-9002-44d620652994)
   ![Screenshot 2024-11-03 224547](https://github.com/user-attachments/assets/4c4562e9-19e4-4d08-8982-f128be97706f)
   ![Screenshot 2024-11-03 224600](https://github.com/user-attachments/assets/1b4cd4ac-d7a3-49d3-a3f8-9fc33596b146)
-
+  ![Screenshot 2024-11-03 224616](https://github.com/user-attachments/assets/a339c758-726f-4922-8eb5-1af48ad63819)
 
 ### Administrators
 - **Traffic Violations Summary**: View total traffic violations from the previous day and average daily violation counts.
@@ -58,13 +56,12 @@ The Fine System is a comprehensive platform designed to manage and streamline th
 - **Fine Management**: Add and manage fine details.
 - **Reports Generation**: Generate fine overview reports, fines by department reports, and fines by date range reports.
 
-  ![Screenshot 2024-11-03 225055](https://github.com/user-attachments/assets/beba7119-3fe6-4878-8000-594954fc77ae)
   ![Screenshot 2024-11-03 225131](https://github.com/user-attachments/assets/f6e8953a-5c57-4b9e-b3d3-ff5b0cb4b60c)
   ![Screenshot 2024-11-03 225201](https://github.com/user-attachments/assets/50ef189a-433c-44cc-8c1b-c89befdc45a6)
   ![Screenshot 2024-11-03 225016](https://github.com/user-attachments/assets/776731e0-084d-4eb3-a98a-29bfb75caa90)
   ![Screenshot 2024-11-03 225028](https://github.com/user-attachments/assets/3b852c44-7f59-4805-897f-e8c03e34cba3)
   ![Screenshot 2024-11-03 225036](https://github.com/user-attachments/assets/9bc2c80e-9fad-4a32-94f7-14984b4dd8a2)
-
+  ![Screenshot 2024-11-03 225055](https://github.com/user-attachments/assets/beba7119-3fe6-4878-8000-594954fc77ae)
 
 ## Technologies Used
 - **HTML**: For structuring the web pages.
